@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/6JVaNWrrVdwAAAAd/windows-7-boot-animation-win7.gif" width="300"/>
-  <br><br>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=hello+world!" alt="Typing SVG" />
