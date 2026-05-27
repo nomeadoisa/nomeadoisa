@@ -1,15 +1,18 @@
-<h1 align="center">
+<div align="center">
+  <img src="https://media1.tenor.com/m/6JVaNWrrVdwAAAAd/windows-7-boot-animation-win7.gif" width="300"/>
+  <br><br>
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=hello+world!" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 ---
 
 <h3 align="center"> Um pouco sobre mim</h3>
 
 <div align="center">
-    Atualmente cursando Bacharelado de Sistemas de Informação na Universidade Federal Rural de Pernambuco, tenho um sonho de conseguir desenvolver programas eficazes que eu consiga utilizar no meu dia a dia e que outros também consigam usar.
+Atualmente cursando o Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE), sou focado em desenvolver aplicações que ajudem as pessoas no dia a dia, resolvendo problemas de maneira rápida e eficiente. Tenho inglês avançado e experiência prática com diversas linguagens de programação. Além disso, sou apaixonado pelo universo gamer e tenho o grande sonho de desenvolver o meu próprio jogo no futuro.
 </div>
 
 ---
